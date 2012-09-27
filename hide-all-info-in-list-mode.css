@@ -1,0 +1,9 @@
+td.number,
+td.read-status,
+td.select-toggle,
+td.info h3 span.label,
+td.info p,
+div.list-browser-bottom-right-info
+{
+    display: none;
+}
